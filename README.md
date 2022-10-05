@@ -1,3 +1,3 @@
-# Programming Patterns - Cohort 7 - Vanier
+# Application Development 2 (Mobile) - Cohort 7 - Vanier
 
-This repository contains materials for Programming Patterns course (Cohort 7).
+This repository contains materials for Application Development 2 (Mobile) course (Cohort 7).
