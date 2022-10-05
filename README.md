@@ -1,3 +1,3 @@
-# Programming Patterns - Cohort 9 - Vanier
+# Programming Patterns - Cohort 7 - Vanier
 
-This repository contains materials for Programming Patterns course (Cohort 9).
+This repository contains materials for Programming Patterns course (Cohort 7).
