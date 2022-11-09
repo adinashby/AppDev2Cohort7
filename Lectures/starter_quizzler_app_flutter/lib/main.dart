@@ -50,7 +50,7 @@ class _QuizPageState extends State<QuizPage> {
         Expanded(
           child: Padding(
             padding: EdgeInsets.all(15.0),
-            child: FTextButton(
+            child: TextButton(
               style: TextButton.styleFrom(
                   backgroundColor: Colors.green,
                   textStyle: TextStyle(
